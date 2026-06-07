@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Nexus HQ
+# Nexus HQ
 
 ### Full Stack Management Dashboard
 
